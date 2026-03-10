@@ -63,8 +63,8 @@ Here is the rough order in which I expect files must/should be loaded:
 
 ## Maintainers
 
-- Tim Erickson (https://github.com/stpaultim).
-- Seeking co-maintainers
+- Module is deprecated. No further development taking place.
+- None
 
 ## LICENSE
 
